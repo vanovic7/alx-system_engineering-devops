@@ -1,1 +1,1 @@
-script that duplicates the last line of the file iacta
+Display all lines of the file /etc/ssh/sshd_config starting with a letter.
