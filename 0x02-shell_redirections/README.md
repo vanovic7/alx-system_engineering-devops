@@ -1,1 +1,1 @@
-script tjat creates a file with filename having speacial characters
+script that duplicates the last line of the file iacta
